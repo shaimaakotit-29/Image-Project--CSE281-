@@ -117,9 +117,7 @@ PSNR = 10 × log10(MAX² / MSE)
 
 ## 👨‍💻 Team Members
 
-- Shaima Mohamed (24100570) – Problem Definition & Dataset  
-- Rohima Ahmed (24100546) – SVD & Metrics  
-- Doha Mahmoud (24100571) – Testing & Visualization  
+- Shaimaa Mohamed Kotit 
 
 **Supervisor:** Dr. Essam Abdellatef  
 
